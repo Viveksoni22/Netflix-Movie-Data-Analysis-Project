@@ -34,7 +34,7 @@ This project focuses on analyzing a dataset of over 9,800 Netflix movies to gain
 
 ## 📁 Project Structure
 
-netflix-movie-analysis/
+netflix-movie-analysis
 │
 ├── netflix_analysis.ipynb # Main Jupyter Notebook with analysis
 ├── mymoviedb.csv # Dataset file (if shareable)
