@@ -41,7 +41,7 @@ This project showcases proficiency in handling real-world data, performing meani
 
 ## 📌 Contact
 
-**Name:** Vivek Soni  
+**Name:** Vivek Kumar Soni  
 **Email:** sonivivek968@gmail.com  
 **LinkedIn:** [Vivek Kumar Soni](https://www.linkedin.com/in/vivek-kumar-soni-5a48b0251/)  
 **GitHub:** [Vivek Kumar Soni](https://github.com/Viveksoni22)
