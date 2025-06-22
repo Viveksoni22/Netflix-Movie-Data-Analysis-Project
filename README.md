@@ -32,15 +32,6 @@ This project focuses on analyzing a dataset of over 9,800 Netflix movies to gain
 - Visualized patterns using bar plots and histograms
 - Created a reusable categorization function for ratings
 
-## 📁 Project Structure
-
-netflix-movie-analysis/
-├── data/
-│   └── netflix_titles.csv
-├── analysis_code.py
-├── README.md
-└── requirements.txt
-
 
 ## ✅ Conclusion
 
