@@ -14,7 +14,7 @@ This project focuses on analyzing a dataset of over 9,800 Netflix movies to gain
 - NumPy
 - Matplotlib
 - Seaborn
-- Jupyter Notebook
+- Google Colab
 
 ## 📊 Key Insights
 
