@@ -49,11 +49,14 @@ This project demonstrates the ability to work with real-world datasets, apply ex
 
 ---
 
+
 ## Contact
 
-***Name:** Vivek Kumar Soni
-***Email:** [sonivivek968@gmail.com](mailto:sonivivek968@gmail.com)
-***LinkedIn:** [linkedin.com/in/vivek-kumar-soni-5a48b0251](https://www.linkedin.com/in/vivek-kumar-soni-5a48b0251)
-***GitHub:** [github.com/Viveksoni22](https://github.com/Viveksoni22)
+For questions, suggestions, or collaborations, please contact:
+
+* **Name**: Vivek Kumar Soni
+* **LinkedIn**: [linkedin.com/in/vivek-kumar-soni-5a48b0251](https://www.linkedin.com/in/vivek-kumar-soni-5a48b0251)
+* **GitHub**: [github.com/Viveksoni22](https://github.com/Viveksoni22)
+* **Email**: [sonivivek968@gmail.com](mailto:sonivivek968@gmail.com)
 
 ---
